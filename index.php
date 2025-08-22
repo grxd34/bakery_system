@@ -485,7 +485,7 @@ if (isset($_SESSION['user_id'])) {
     </main>
 
     <footer>
-        <p>&copy; 2023 Fresh Bread Bakery. All rights reserved.</p>
+        <p>&copy; 2025 Fresh Bread Bakery. All rights reserved.</p>
     </footer>
 
     <!-- Order Modal with Professional Design -->
@@ -636,7 +636,7 @@ if (isset($_SESSION['user_id'])) {
                         
                         <div class="form-group form-group-full">
                             <div class="form-hint">
-                                <i class="fas fa-info-circle"></i> Our bakery is located at 123 Bakery Street. Please arrive within 15 minutes of your selected pickup time.
+                                <i class="fas fa-info-circle"></i> Our bakery is located at Perdices Street, corner San Juan St, Dumaguete. Please arrive within 15 minutes of your selected pickup time.
                             </div>
                         </div>
                     </div>
